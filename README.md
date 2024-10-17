@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a student of the technical degree in programming. I met the world of programming 3 years ago and since then I have not stopped learning. I like to take new challenges and I can quickly adapt to the nature of each project. I have helped many people to understand their code and its requirements, always working as a team to be able to contribute mutual knowledge. I consider that the code has to be translated into real life, I think about how you would solve all the possible scenarios in everyday life and then I implement it in the code in the best way.
+I am a student of the technical degree in programming. I met the world of programming 4 years ago and since then I have not stopped learning. I like to take new challenges and I can quickly adapt to the nature of each project. I have helped many people to understand their code and its requirements, always working as a team to be able to contribute mutual knowledge. I consider that the code has to be translated into real life, I think about how you would solve all the possible scenarios in everyday life and then I implement it in the code in the best way.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
